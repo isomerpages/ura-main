@@ -1,0 +1,25 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+logo: /images/isomer-logo.svg
+
+links:
+  - title: Who We Are
+    collection: who-we-are
+  - title: Planning
+    collection: planning
+  - title: Property
+    collection: property
+  - title: Guidelines
+    collection: guidelines
+  - title: Carparks
+    collection: carparks
+  - title: Land Sales
+    collection: land-sales
+  - title: Get Involved
+    collection: get-involved
+  - title: Resources
+    resource_room: true
