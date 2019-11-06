@@ -9,7 +9,7 @@ sections:
     - hero:
         title: Urban Redevelopment Authority
         subtitle: To make Singapore a great city to live, work and play
-        background: /images/hero-banner.jpg
+        background: /images/Album-cover-Singapore-River.jpg
         button: 
         url: 
         key_highlights:
