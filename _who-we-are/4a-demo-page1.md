@@ -3,62 +3,37 @@ title: Demo
 permalink: /who-we-are/who-we-are/demo-page1/
 fourth_nav_title: Who We Are
 ---
-Circular No : URA/PB/2019/17-DCG
+Usher in a new decade with Singapore’s biggest countdown celebration at Marina Bay
+Published: 04 November 2019
 
-Our Ref : DC/ADMIN/CIRCULAR/PB_19
+Celebrate in the city with a plethora of activities happening at Marina Bay and the Civic District as we get set to usher in the new year. Singapore’s biggest countdown event, Marina Bay Singapore Countdown 2020, will light up the city skyline and bring people from all walks of life together to celebrate the occasion with an exciting line-up of events and experiences.
 
-CIRCULAR TO PROFESSIONAL INSTITUTES
+**Something for everyone on New Year’s Eve**
 
-Who Should Know:
-Building owners, agricultural industry stakeholders, developers, and architects
+Presented by the Urban Redevelopment Authority (URA), the Marina Bay Singapore Countdown 2020 offers revellers a whole host of experiences for a great night out in the heart of our city. Extending from Marina Bay to the Civic District, the New Year’s Eve celebration will feature spectacular fireworks that can be viewed from around the bay, dazzling light projection displays, multi-sensory musical, riveting international circus acts, music performances, an array of family-friendly outdoor activities and more - there is something for everyone!
 
-Effective Date:
-With effect from 20 September 2019
+Coming to Singapore for the first time is The Great Circus of Europe presented by Uncle Ringo. On New Year’s Eve, the Bayfront Event Space will play host to a thrilling line-up of international circus acts where visitors can get up close to acrobats, gravity-defying motorbikes, contortionists, clowns and more. Visitors can also indulge in carnival games, thrill rides and delicacies at the food street.
 
-The agriculture landscape in Singapore is evolving. High-intensity and high-rise agriculture developments allow us to achieve greater productivity and optimise the use of land, while also enhancing our food resilience.
+STAR ISLAND SINGAPORE COUNTDOWN EDITION will return to The Float @ Marina Bay for its sophomore edition, whisking visitors off on an intergalactic adventure with a new theme – A Space Odyssey. The show will see Japanese fireworks, pyrotechnics, 3D surround sound and stage performances, all interfused into a single, seamless immersive experience.
 
-To facilitate the transformation of the agriculture industry, support more intensive agriculture developments, and ensure that agriculture developments are compatible with their surroundings, URA has introduced planning guidelines specific to agriculture developments. URA has also streamlined the planning application process to enable applicants to obtain faster approval at a lower cost.
+Music lovers can look forward to Mediacorp’s Let’s Celebrate 2020 countdown concert at The Promontory that will bring the best of music, dance and fashion together, shining a spotlight on the top talents from Singapore. As we count down to new beginnings, come and enjoy live performances as our favourite artists reunite at Esplanade Presents: Come Together.
 
-Planning Guidelines
+Visitors can also drop by Starlight @ The Lawn, an array of family-friendly and fun activities with bouncy castles, roving and stage performances, food and beverage options and more, presented by the Marina Bay Alliance1.
 
-The new planning guidelines specific to agriculture developments are found in Appendix 1. Apart from the listed planning guidelines, the applicant is to comply with the requirements of technical agencies such as LTA, NParks, FSSD, PUB, BCA, NEA, DSTA etc.
+The streets at the Civic District will be closed once again to create a special car-free zone as an extension of the celebrations around the bay. Unwind @ Civic District will feature a variety of activities for visitors at the Empress Lawn and along Connaught Drive, allowing them to enjoy the night with their friends and loved ones while indulging in a wide variety of food and drinks.
 
-Streamlined Planning Application Process
+**Light projections of hopes and dreams for Singapore**
 
-URA has streamlined the planning application process as follows:
+In partnership with the National Volunteer & Philanthropy Centre and Giving.sg, Marina Bay Singapore Countdown 2020 will bring back the Build a Dream light projection shows featuring artworks by individuals from selected social service organisations, including SHINE Children and Youth Services, Beyond Social Services, Dyslexia Association of Singapore and Yishun Community Hospital. The illustrations, representing their hopes and dreams for Singapore, will transform the facades of The Fullerton Hotel Singapore, ArtScience Museum at Marina Bay Sands and the Merlion with nightly light projections in the last week of December. The public can also do their part to support the social service organisations and their beneficiaries by donating or signing up as a volunteer via Giving.sg from 4 November to 31 January 2020.
 
-Land Leased or Sold by the State for Agriculture Use
+Mr Lim Eng Hwee, Chief Executive Officer of the URA said, “More than just a celebration of the New Year, the Marina Bay Singapore Countdown this year also marks an exciting fresh beginning as we welcome a new decade. We hope the line-up of activities put together with the support of our partners and stakeholders will draw visitors, young and old, locals and tourists, to all come together and enjoy the New Year’s Eve at Marina Bay. As we welcome the New Year, we hope that the public will also help to play a part to support the social service organisations and their beneficiaries through the Build a Dream initiative.”
 
-Development proposals involving single storey structures not exceeding 12m in height shall be authorised, ie there is no need to submit an application to URA for planning approval. This is provided there is no retail / F&B (i.e. shop, restaurant, showroom use) or visitor centre use; and the structures comply with the minimum building setback / road buffer set out in the planning guidelines for agriculture developments in Appendix 1. The proposed works may start after written consent is obtained from the lessor.
+Celebrate in the City from this week
 
-For development proposals involving structures that exceed 1-storey or 12m in height, and fully comply with planning guidelines for agriculture development and lodgement criteria (listed in Appendix 2), applicants may engage a Qualified Person (QP) to lodge their plans with URA for instant approval.
+From this week, public can start to head over to Marina Bay to join in the year-end festivities as part of Celebrate in the City, an exciting line-up of events and experiences put together by the Marina Bay stakeholders and the community. Explore the wide variety of family-friendly programmes around the bay including the popular Poinsettia Wishes Floral Display, Christmas Wonderland and #futuretogether at Gardens by the Bay, Christmas at ArtScience Museum, free live performances at the Esplanade – Theatres on the Bay, as well as the display of 200 specially-designed physical and digital Christmas trees within the Marina Bay precinct in celebration of our community heroes as part of ChariTrees 2019.
 
-Proposals that do not satisfy the authorisation or lodgment criteria will have to submit a development application to URA (see Appendix 3).
+More information about the year-end programmes can be found in Annex A [PDF, 658kb].
 
-Land Tenanted Out or Granted Temporary Occupation Licence by the State for Agriculture Use
+For more details on the Marina Bay Singapore Countdown 2020, visit: https://www.marinabaycountdown.sg/.
 
-Works on land tenanted out or granted Temporary Occupation Licence (TOL) by the State for agriculture use on an interim basis1 shall be authorised without the need to submit an application to URA for planning approval, provided the proposed works are in accordance with the parameters stipulated in the tenancy agreement and the conditions in Appendix 3.
-
-However, a Development Application shall be submitted to URA for planning consideration, if the proposed works deviate from the planning parameters stipulated in the tenancy agreement.
-
-**Implementation**
-All proposed agriculture works will require endorsement from the lessor (e.g. SLA, SFA or NParks), regardless of whether the works are authorised, lodged or submitted to URA for planning approval. The information that has to be endorsed by the lessor is summarised in Appendix 4.
-
-The new guidelines and streamlined plan application process shall apply to all new proposals for works on agriculture land with immediate effect.2
-
-I would appreciate it if you could convey the contents of this circular to the relevant members of your organisation. We have updated the same in the Development Control Handbooks. You are advised to refer to these Handbooks for the most updated guidelines and procedures instead of referring to past circulars.
-
-For other information on the master plan, urban design guidelines, private property use and approval, car park locations and availability, private residential property transactions, and conservation areas and buildings, use URA SPACE (Service Portal and Community e-Services). This is an online portal packed with useful data and visualisation to help building professionals, business operators and the general public in their decision-making. It consolidates detailed information on land use and private property into a one-stop platform presented on geospatial maps. For feedback or enquiries, please email us.
-
-Thank You.
-
-GOH CHIN CHIN (MS)
-GROUP DIRECTOR (DEVELOPMENT CONTROL)
-for CHIEF EXECUTIVE OFFICER
-URBAN REDEVELOPMENT AUTHORITY
-
-Join URA’s mailing list to get the latest updates on current and future plans and developments around Singapore. Click here to subscribe.
-
-1 Refers to any land owned by the State or a statutory body for which the State or statutory board has granted a tenancy or licence for interim uses and for a tenure of up to 10 years.
-
-2 Existing lessees with specific requirements in the tender conditions or tenancy agreements can liaise with their lessor on the requirements applicable to their sites.
+1 Marina Bay Alliance comprises stakeholders of the upcoming Marina Bay pilot Business Improvement District. The incorporation of Marina Bay Alliance is currently in progress.
