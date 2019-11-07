@@ -2,7 +2,7 @@
 layout: homepage
 title: Urban Redevelopment Authority
 description: To make Singapore a great city to live, work and play
-image: /images/URALogo.svg
+image: /images/URALogo.png
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
