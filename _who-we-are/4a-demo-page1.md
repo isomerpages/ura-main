@@ -1,5 +1,5 @@
 ---
-title: Demo Page 1
+title: Demo
 permalink: /who-we-are/who-we-are/demo-page1/
 fourth_nav_title: Who We Are
 ---
