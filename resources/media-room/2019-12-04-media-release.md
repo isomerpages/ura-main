@@ -20,4 +20,4 @@ Coming to Singapore for the first time is **The Great Circus of Europe** present
 
 For more details on the Marina Bay Singapore Countdown 2020, visit: [https://www.marinabaycountdown.sg](https://www.marinabaycountdown.sg).
 
-[^1]: Marina Bay Alliance comprises stakeholders of the upcoming Marina Bay pilot Business Improvement District. The incorporation of Marina Bay Alliance is currently in progress.
+<sup>1</sup> Marina Bay Alliance comprises stakeholders of the upcoming Marina Bay pilot Business Improvement District. The incorporation of Marina Bay Alliance is currently in progress.
