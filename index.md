@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Urban Redevelopment Authority
+      title: Title
       subtitle: Subtitle
       background: /images/Album-cover-Singapore-River.jpg
       button: null
@@ -48,10 +48,4 @@ sections:
       title: News
       subtitle: Find out more
       button: See more
-  - infobar:
-      title: New Title
-      subtitle: new subtitle
-      description: New description
-      button: button
-      url: /who-we-are/
 ---
