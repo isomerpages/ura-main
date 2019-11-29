@@ -4,7 +4,7 @@ title: Sample post for Press Release
 permalink: /resources/media-room/test
 ---
 
-## Lorem ipsum sit amet
+## Usher in a new decade with Singapore’s biggest countdown celebration at Marina Bay
 
 #### Published: 04 November 2019
 
