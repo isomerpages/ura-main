@@ -7,11 +7,11 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Title
+      title: Urban Redevelopment Authority
       subtitle: Subtitle
       background: /images/Album-cover-Singapore-River.jpg
-      button: null
-      url: null
+      button: Button
+      url: www.google.com
       key_highlights:
         - title: Public
           description: Find out more bla
@@ -45,7 +45,13 @@ sections:
       image: /images/URASpaceMap1.jpg
       alt: URA Space Map
   - resources:
-      title: News
-      subtitle: Find out more
-      button: See more
+      title: Media
+      subtitle: News and press releases
+      button: Find out more
+  - infobar:
+      title: New section title
+      subtitle: new subtitle
+      description: new description
+      button: find out more
+      url: www.google.com
 ---
