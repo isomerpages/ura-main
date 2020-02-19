@@ -1,4 +1,4 @@
 ---
-title: Connserved Buildings
+title: Conserved Buildings
 permalink: /property/conserved-buildings/
 ---
