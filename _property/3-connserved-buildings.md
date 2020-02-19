@@ -1,4 +1,4 @@
 ---
 title: Connserved Buildings
-permalink: /property/connserved-buildings/
+permalink: /property/conserved-buildings/
 ---
