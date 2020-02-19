@@ -1,4 +1,4 @@
 ---
-title: Property Date
-permalink: /property/property-date/
+title: Property Data
+permalink: /property/property-data/
 ---
