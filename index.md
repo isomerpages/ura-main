@@ -8,7 +8,7 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       title: Urban Redevelopment Authority
-      subtitle: Subtitle
+      subtitle: e-Services
       background: /images/Album-cover-Singapore-River.jpg
       button: Button
       url: www.google.com
