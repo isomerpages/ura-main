@@ -10,15 +10,15 @@ sections:
       title: To make Singapore a great city to live, work and play
       subtitle: 
       background: /images/CivicDistrict_banner.jpg
-      button: Launch Master Plan 2019
-      url: www.ura.gov.sg/maps/?service=mp
       dropdown:
         title: I want to...
         options:
-        - title: Sign up for EFG
+        - title: read the media releases.
           url: /signup/
-        - title: Learn more about ABC
-          url: /learn-more/
+        - title: launch map on Master Plan 2019.
+          url: www.ura.gov.sg/maps/?service=mp
+        - title: check property market data.
+          url: /property
       key_highlights:
         - title: Digital Services
           description: Quicklinks to URA's e-Services
