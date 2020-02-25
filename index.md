@@ -14,10 +14,10 @@ sections:
       url: www.google.com
       key_highlights:
         - title: Digital Services
-          description: Apply, Submit and Pay for Services
+          description: Quicklinks of URA's e-Services
           url: /public-quick-links/
         - title: Singapore City Gallery
-          description: Discover Singapore’s dramatic transformation
+          description: Discover Singapore’s 50 Years of Transformation
           url: /business-quick-links/
   - infopic:
       title: URA SPACE
