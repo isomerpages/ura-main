@@ -7,10 +7,10 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Urban Redevelopment Authority
-      subtitle: e-Services
+      title: To make Singapore a great city to live, work and play
+      subtitle: 
       background: /images/Album-cover-Singapore-River.jpg
-      button: Button
+      button: Launch Master Plan 2019
       url: www.google.com
       key_highlights:
         - title: Public
