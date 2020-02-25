@@ -13,28 +13,12 @@ sections:
       button: Launch Master Plan 2019
       url: www.google.com
       key_highlights:
-        - title: Public
-          description: Find out more bla
+        - title: Digital Services
+          description: Apply, Submit and Pay for Services
           url: /public-quick-links/
-        - title: Business Owners
-          description: Find out more
+        - title: Get Involved
+          description: Exhibitions, Public Tours and More
           url: /business-quick-links/
-        - title: Architects
-          description: Find out more
-          url: /architects-quick-links/
-        - title: Fourth button
-          description: Find out more
-          url: /fourth-button/
-  - infopic:
-      title: Draft Master Plan 2019
-      subtitle: null
-      description: >-
-        The Draft Master Plan 2019 strives to create an economically vibrant and
-        liveable home for all.
-      button: Explore it Here
-      url: /planning/draft-master-plan-2019/overview/
-      image: /images/DMP-Banner.jpg
-      alt: DMP-2019
   - infopic:
       title: URA SPACE
       subtitle: null
