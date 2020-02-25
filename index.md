@@ -24,8 +24,8 @@ i-want-to:
         - title: Digital Services
           description: Apply, Submit and Pay for Services
           url: /public-quick-links/
-        - title: Get Involved
-          description: Exhibitions, Public Tours and More
+        - title: Singapore City Gallery
+          description: Discover Singapore’s dramatic transformation
           url: /business-quick-links/
   - infopic:
       title: URA SPACE
