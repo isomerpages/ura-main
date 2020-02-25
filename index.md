@@ -9,7 +9,7 @@ sections:
   - hero:
       title: To make Singapore a great city to live, work and play
       subtitle: 
-      background: /images/Album-cover-Singapore-River.jpg
+      background: /images/CivicDistrict_banner.jpg
       button: Launch Master Plan 2019
       url: www.google.com
       key_highlights:
