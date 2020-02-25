@@ -12,14 +12,6 @@ sections:
       background: /images/CivicDistrict_banner.jpg
       button: Launch Master Plan 2019
       url: www.google.com
-      
-      # I want to dropdown
-i-want-to:
-  - title: be informed
-    url: /be-informed/overview
-  - title: get involved
-    url: /get-involved/overview
-      
       key_highlights:
         - title: Digital Services
           description: Apply, Submit and Pay for Services
