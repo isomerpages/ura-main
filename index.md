@@ -11,10 +11,17 @@ sections:
       subtitle: 
       background: /images/CivicDistrict_banner.jpg
       button: Launch Master Plan 2019
-      url: www.google.com
+      url: www.ura.gov.sg/maps/?service=mp
+      dropdown:
+        title: I want to...
+        options:
+        - title: Sign up for EFG
+          url: /signup/
+        - title: Learn more about ABC
+          url: /learn-more/
       key_highlights:
         - title: Digital Services
-          description: Quicklinks of URA's e-Services
+          description: Quicklinks to URA's e-Services
           url: /public-quick-links/
         - title: Singapore City Gallery
           description: Discover Singapore’s 50 Years of Transformation
