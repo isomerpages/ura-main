@@ -14,7 +14,7 @@ sections:
         title: I want to...
         options:
         - title: read the media releases.
-          url: /signup/
+          url: /media/
         - title: launch map on Master Plan 2019.
           url: www.ura.gov.sg/maps/?service=mp
         - title: check property market data.
@@ -26,23 +26,9 @@ sections:
         - title: Singapore City Gallery
           description: Discover Singapore’s 50 Years of Transformation
           url: /business-quick-links/
-  - infopic:
-      title: URA SPACE
-      subtitle: null
-      description: 'Planning data for building professionals, business operators and public'
-      button: Launch
-      url: >-
-        https://www.ura.gov.sg/maps/?utm_source=LaunchMapButton&utm_medium=website&utm_campaign=URASpace-Home&utm_content=URASpace-Home
-      image: /images/URASpaceMap1.jpg
-      alt: URA Space Map
   - resources:
-      title: Media
-      subtitle: News and press releases
-      button: Find out more
-  - infobar:
-      title: New section title
-      subtitle: new subtitle
-      description: new description
-      button: find out more
+      title: Latest News
+      subtitle: Be Informed
+      button: View More
       url: www.google.com
 ---
