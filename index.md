@@ -30,5 +30,5 @@ sections:
       title: Latest News
       subtitle: Be Informed
       button: View More
-      url: /resources/media-room/
+      url: /media-room/
 ---
