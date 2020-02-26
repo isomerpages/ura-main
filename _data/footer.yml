@@ -1,10 +1,28 @@
 contact_us: /contact-us/
 show_reach: true
 feedback: 
-faq: /faq/
 social_media:
     facebook: https://www.facebook.com/YourFBPage
     twitter: https://www.twitter.com/YourTwitter
     youtube: https://www.youtube.com/YourYoutube
     instagram: https://www.instagram.com/your.insta/
     linkedin: https://www.linkedin.com/company/YourAgency
+    navlinks:
+  - title: Sample Collection
+    collection: sample-collection
+  - title: Resource Room
+    resource_room: true
+  - title: Single Page
+    url: /some-page/
+  - title: Custom Sublinks
+    url: /some-page-a/
+    sublinks:
+      - title: Subitem 1
+        url: /some-page-a/
+      - title: Subitem 2
+        url: /some-page-b/
+      - title: Subitem 3
+        url: /some-page-c/
+links:
+  - title: Google
+    url: https://www.google.com
