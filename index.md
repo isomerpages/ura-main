@@ -30,5 +30,5 @@ sections:
       title: Latest News
       subtitle: Be Informed
       button: View More
-      url: www.google.com
+      url: /media
 ---
