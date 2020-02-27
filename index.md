@@ -31,9 +31,19 @@ sections:
       subtitle: Be Informed
       button: View More
       url: /media-room/
-images: 
-  - image: /images/
-  - image: /uploads/slider/image2.jpg
-  - image: /uploads/slider/image3.jpg
-  - image: /uploads/slider/image4.jpg
+- carousel:
+  - title: Initiative A
+    subtitle: services
+    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet asperiores dicta distinctio enim harum labore libero magni non tempora ullam.
+    image: /images/initiative-a.png
+    alt: Employees taking part in Initiative A
+  - title: Initiative B
+    subtitle: services
+    image: /images/initiative-b.png
+    alt: Employees handing out hampers to underserved citizens
+  - title: Initiative C
+    subtitle: services
+    description: Maecenas nec pretium eros, sed gravida tortor. Cras suscipit a dolor vel vehicula.
+    image: /images/initiative-c.png
+    alt: Citizens providing their feedback to grassroots leaders
 ---
