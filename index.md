@@ -9,7 +9,7 @@ sections:
   - hero:
       title: To make Singapore a great city to live, work and play
       subtitle: 
-      background: /images/homepage/CivicDistrict_banner.jpg
+      background: /images/home/CivicDistrict_banner.jpg
       dropdown:
         title: I want to...
         options:
