@@ -49,4 +49,7 @@ navlinks:
         url: /some-page-a/
       - title: Rooms
         url: /some-page-b/
-        
+  - title: Singapore City Gallery
+    url: /some-page-a/
+  - title: Subscribe to Monthly Newsletter
+    url: /some-page-a/
