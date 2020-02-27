@@ -1,28 +1,52 @@
 contact_us: /contact-us/
 show_reach: true
-feedback: 
+feedback: http://www.ura.gov.sg/feedbackWeb/contactus_feedback.jsp
 social_media:
-    facebook: https://www.facebook.com/YourFBPage
-    twitter: https://www.twitter.com/YourTwitter
-    youtube: https://www.youtube.com/YourYoutube
-    instagram: https://www.instagram.com/your.insta/
-    linkedin: https://www.linkedin.com/company/YourAgency
+    facebook: https://www.facebook.com/URASingapore
+    twitter: https://twitter.com/urasg
+    instagram: https://www.instagram.com/urasingapore/
+    linkedin: https://sg.linkedin.com/company/urasingapore
 navlinks:
-  - title: Sample Collection
-    collection: sample-collection
-  - title: Resource Room
-    resource_room: true
-  - title: Single Page
-    url: /some-page/
-  - title: Custom Sublinks
+  - title: e-Services
     url: /some-page-a/
     sublinks:
-      - title: Subitem 1
+      - title: Car Parks
         url: /some-page-a/
-      - title: Subitem 2
+      - title: Conservation
         url: /some-page-b/
-      - title: Subitem 3
+      - title: Development Control
         url: /some-page-c/
-links:
-  - title: Google
-    url: https://www.google.com
+      - title: Land Sales
+        url: /some-page-a/
+      - title: Planning
+        url: /some-page-b/
+      - title: Property Market
+        url: /some-page-c/
+      - title: Others
+        url: /some-page-c/
+  - title: Media Room
+    url: /some-page-a/
+    sublinks:
+      - title: Media Releases
+        url: /some-page-a/
+      - title: Forum Replies
+        url: /some-page-b/
+      - title: Speeches
+        url: /some-page-c/
+  - title: Careers
+    url: /some-page-a/
+    sublinks:
+      - title: Career with URA
+        url: /some-page-a/
+      - title: Opportunities for Students
+        url: /some-page-b/
+      - title: Meet the URA Family!
+        url: /some-page-c/
+  - title: Facilities for Rental
+    url: /some-page-a/
+    sublinks:
+      - title: Hall
+        url: /some-page-a/
+      - title: Rooms
+        url: /some-page-b/
+        
