@@ -51,5 +51,5 @@ navlinks:
         url: /some-page-b/
   - title: Singapore City Gallery
     url: /some-page-a/
-  - title: Subscribe to Monthly Newsletter @icn-camera
+  - title: Subscribe to Monthly Newsletter <i class="far fa-paper-plane"></i>
     url: /some-page-a/
