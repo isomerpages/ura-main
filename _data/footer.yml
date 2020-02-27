@@ -51,5 +51,5 @@ navlinks:
         url: /some-page-b/
   - title: Singapore City Gallery
     url: /some-page-a/
-  - title: Subscribe to Monthly Newsletter
+  - title: Subscribe to Monthly Newsletter :fa-envelope:
     url: /some-page-a/
