@@ -31,19 +31,5 @@ sections:
       subtitle: Be Informed
       button: View More
       url: /media-room/
-- carousel:
-  - title: Initiative A
-    subtitle: services
-    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet asperiores dicta distinctio enim harum labore libero magni non tempora ullam.
-    image: /images/carousel/30maxwellhero.jpg
-    alt: Employees taking part in Initiative A
-  - title: Initiative B
-    subtitle: services
-    image: /images/carousel/AUDESpace_PushingBoundaries.jpg
-    alt: Employees handing out hampers to underserved citizens
-  - title: Initiative C
-    subtitle: services
-    description: Maecenas nec pretium eros, sed gravida tortor. Cras suscipit a dolor vel vehicula.
-    image: /images/carousel/PLAB.jpg
-    alt: Citizens providing their feedback to grassroots leaders
+
 ---
