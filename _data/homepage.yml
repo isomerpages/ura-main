@@ -22,20 +22,20 @@ hero-subtitle:
 hero-banner: /images/home/CivicDistrict_banner.jpg
 
 #Hero Dropdown
-hero-dropdown-text: I want to...
-i-want-to:
-        - title: read the media releases.
-          url: /media/
-        - title: launch map on Master Plan 2019.
-          url: www.ura.gov.sg/maps/?service=mp
-        - title: check property market data.
-          url: /property/
+#hero-dropdown-text: I want to...
+#i-want-to:
+        #- title: read the media releases.
+        #  url: /media/
+        #- title: launch map on Master Plan 2019.
+          #url: www.ura.gov.sg/maps/?service=mp
+       # - title: check property market data.
+        #  url: /property/
 
 #Call to Action Button
 button:
-  - text:
-    url:
-    external: #true-or-false
+  - text: Explore Master Plan 2019 Here
+    url: https://www.ura.gov.sg/maps
+    external: true
     
 #Key Highlights
 key-highlights:
