@@ -23,6 +23,8 @@ collections:
     output: true
   homepage_hero_i_want_to:
     output: true
+  homepage_resources:
+    output: true
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
