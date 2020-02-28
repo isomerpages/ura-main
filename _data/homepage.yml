@@ -8,10 +8,10 @@ agency-logo: /images/URALogo.png
 google-analytics: #UA-Number
 
 #AskJamie
-ask-jamie: non-empty string
+ask-jamie: #non-empty-string
 
 #Hero Banner
-hero-title:
+hero-title: To make Singapore a great city to live, work and play
 hero-subtitle:
 hero-banner: /images/home/CivicDistrict_banner.jpg
 
@@ -33,16 +33,38 @@ button:
     
 #Key Highlights
 key-highlights:
-        - title: Digital Services
+        - title: DIGITAL SERVICES
           description: Quicklinks to URA's e-Services
           url: /public-quick-links/
-        - title: Singapore City Gallery
+          external: false
+        - title: SINGAPORE CITY GALLERY
           description: Discover Singapore’s 50 Years of Transformation
           url: /business-quick-links/
+          external: false
+        - title: SUBSCRIBE TO URAThisMonth
+          description: Get involved with us!
+          url: https://www.mailchimp.com
+          external: true
 
-#Resources
-resources:
-     - title: Latest News
-       subtitle: Be Informed
-       button: View More
-       url: #
+#Resources Section
+resources-title: Latest News
+resources-subtitle: Be Informed
+resources-more-button: View More
+resources-more-button-url: /resources/
+
+#Ideas and Trends Section
+#To edit the ideas details, go to ideas-and-trends.yml
+ideas-title: Ideas and Trends
+ideas-subtitle: Lorem ipsum dolor
+ideas-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+ideas-more-button: More Articles
+ideas-more-button-url: /ideas-and-trends/
+
+#Publications
+#To edit the publications details, go to publications.yml
+publications-title: Publications
+publications-subtitle: Loren ipsum dolor
+publications-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
+publications-more-button: More Articles
+publications-more-button-url: /publications/
+
