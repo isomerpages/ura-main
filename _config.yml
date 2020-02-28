@@ -4,6 +4,41 @@ description: At URA, we adopt a long-term and comprehensive planning approach to
 url: https://www.ura.gov.sg
 favicon: /images/favicon-URA-Logo.ico
 
+# Build settings
+markdown: kramdown
+remote_theme: isomerpages/isomerpages-template
+safe: false
+
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-sitemap
+
+# Breadcrumbs
+breadcrumbs:
+  root:
+    hide: false
+    # show breadcrumbs on root/home page
+    image: false
+    # Show image or title text
+
+# Resource Room and Pagination
+paginate: 12
+
+# Homepage sections
+homepage_hero_i_want_to: true
+# if i_want_to is true, there will be no key highlights
+homepage_ideas-and-trends: true
+homepage_resources: true
+homepage_publications: true
+
+# Feedback Form URL
+feedback_form_url: "http://www.ura.gov.sg/feedbackWeb/contactus_feedback.jsp"
+
+# Custom CSS file path
+custom_css_path: "/misc/custom.css"
+custom_print_css_path: "/assets/css/print.css"
+
 collections:
   who-we-are:
     output: true
@@ -25,45 +60,6 @@ collections:
     output: true
   homepage_resources:
     output: true
-
-# Resource Room and Pagination
-resources_name: "media"
-paginate: 12
-paginate_path: "/media/page:num"
-
-# Site configuration for Blueprint
-##################################
-
-# Homepage sections
-homepage_hero_i_want_to: true
-# if i_want_to is true, there will be no key highlights
-homepage_ideas-and-trends: true
-homepage_resources: true
-homepage_publications: false
-
-##################################################################################################################
-# Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
-##################################################################################################################
-permalink: none
-baseurl: "" # the subpath of your site, e.g. /blog
-
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: "page"
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
-paginate: 12
-remote_theme: isomerpages/isomerpages-template@next-gen
-safe: false
-
-plugins:
-  - jekyll-feed
-  - jekyll-assets
-  - jekyll-paginate
-  - jekyll-sitemap
 
 # Isomer recommender system - only works for simple-page, leftnav-page, and post
 recommender: true
