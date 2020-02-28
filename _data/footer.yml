@@ -1,6 +1,9 @@
 contact_us: /contact-us/
 show_reach: true
 feedback: http://www.ura.gov.sg/feedbackWeb/contactus_feedback.jsp
+privacy_policy: /privacy-policy/
+terms_of_use: /terms-of-use/
+copyright_agency: Urban Redevelopment Authority, URA
 social_media:
     facebook: https://www.facebook.com/URASingapore
     twitter: https://twitter.com/urasg
@@ -51,5 +54,6 @@ navlinks:
         url: /some-page-b/
   - title: Singapore City Gallery
     url: /some-page-a/
+links:
   - title: Subscribe to Monthly Newsletter
     url: /some-page-a/
