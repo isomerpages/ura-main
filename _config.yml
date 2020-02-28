@@ -1,6 +1,6 @@
 title: Urban Redevelopment Authority
 title-abbreviated: URA
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.ura.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/favicon-URA-Logo.ico
 
 collections:
@@ -18,13 +18,14 @@ collections:
     output: true
   get-involved:
     output: true
-resources_name: resources
+  resources:
+    output: true
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
 ##################################################################################################################
 permalink: none
-baseurl: ""
+baseurl: "" # the subpath of your site, e.g. /blog
 exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
 include: [_redirects]
 defaults:
@@ -43,5 +44,5 @@ plugins:
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
-description: test test
-
+description: >- # this means to ignore newlines until "baseurl:"
+  To make Singapore a great city to live, work and play
