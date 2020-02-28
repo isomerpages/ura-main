@@ -4,9 +4,7 @@
 #                                #
 ##################################
 
-logo: /images/URALogo.png
-
-- title: Who We Are
+- title: About Us
   url: /about-us/
   sub-links:
   - title: Who We Are
