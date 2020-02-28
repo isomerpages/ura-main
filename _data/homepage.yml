@@ -1,0 +1,48 @@
+#Favicon
+favicon: /images/favicon-URA-Logo.ico
+
+#Agency Logo
+agency-logo: /images/URALogo.png
+
+#Google Analytics
+google-analytics: #UA-Number
+
+#AskJamie
+ask-jamie: non-empty string
+
+#Hero Banner
+hero-title:
+hero-subtitle:
+hero-banner: /images/home/CivicDistrict_banner.jpg
+
+#Hero Dropdown
+hero-dropdown-text: I want to...
+i-want-to:
+        - title: read the media releases.
+          url: /media/
+        - title: launch map on Master Plan 2019.
+          url: www.ura.gov.sg/maps/?service=mp
+        - title: check property market data.
+          url: /property/
+
+#Call to Action Button
+button:
+  - text:
+    url:
+    external: #true-or-false
+    
+#Key Highlights
+key-highlights:
+        - title: Digital Services
+          description: Quicklinks to URA's e-Services
+          url: /public-quick-links/
+        - title: Singapore City Gallery
+          description: Discover Singapore’s 50 Years of Transformation
+          url: /business-quick-links/
+
+#Resources
+resources:
+     - title: Latest News
+       subtitle: Be Informed
+       button: View More
+       url: #
