@@ -4,22 +4,103 @@
 #                                #
 ##################################
 
-logo: /images/URALogo.png
-
-links:
+- title: Who We Are
+  url: /about-us/
+  sub-links:
   - title: Who We Are
-    collection: who-we-are
-  - title: Planning
-    collection: planning
-  - title: Property
-    collection: property
-  - title: Guidelines
-    collection: guidelines
-  - title: Carparks
-    collection: carparks
-  - title: Land Sales
-    collection: land-sales
-  - title: Get Involved
-    collection: get-involved
-  - title: Resources
-    collection: resources
+    url: /about-us/who-we-are/
+  - title: What We Do
+    url: /about-us/what-we-do/
+  - title: Annual Reports
+    url: /about-us/annual-reports/
+  - title: Financial Statements
+    url: /about-us/financial-statements
+- title: Planning
+  url: /planning/
+  sub-links:
+  - title: Our Planning Process
+    url: /planning/our-planning-process
+  - title: Concept Plan
+    url: /planning/concept-plan
+  - title: Master Plan
+    url: /planning/master-plan
+- title: Property
+  url: /property/
+  sub-links:
+  - title: Conserved Buildings
+    url: /property/conserved-buildings
+  - title: Property Data
+    url: /property/property-data
+  - title: Residential
+    url: /property/residential
+  - title: Business
+    url: /property/business
+- title: Guidelines
+  url: /guidelines/
+  sub-links:
+  - title: Circulars
+    url: /guidelines/circulars/
+  - title: Development Control
+    url: /guidelines/development-control/
+  - title: Urban Design
+    url: /guidelines/urban-design/
+  - title: Home Business
+    url: /guidelines/home-business/
+  - title: Developers
+    url: /guidelines/developers
+  - title: Conservation
+    url: /guidelines/conservation
+  - title: Street and Building Names
+    url: /guidelines/street-and-building-names/
+  - title: Active Mobility
+    url: /guidelines/active-mobility/
+- title: Car Parks
+  url: /car-parks/
+  sub-links:
+  - title: Season Parking
+    url: /car-parks/season-parking/
+  - title: Vehicle Parking Certificate
+    url: /car-parks/vehicle-parking-certificate/
+  - title: Use of Parking Lots
+    url: /car-parks/use-parking-lots/
+  - title: Parking Offences
+    url: /car-parks/parking-offences/
+  - title: Short Term Parking
+    url: /car-parks/short-term-parking/
+- title: Land Sales
+  url: /land-sales/
+  sub-links:
+  - title: Current URA GLS Sites
+    url: /land-sales/current-ura-gls-sites/
+  - title: Sites for Tender
+    url: /land-sales/sites-for-tender/
+  - title: Sites for Application
+    url: /land-sales/sites-for-application/
+  - title: Land Sale Procedure
+    url: /land-sales/land-sale-procedure/
+  - title: Past Sale Sites
+    url: /land-sales/past-sale-sites/
+- title: Get Involved
+  url: /get-involved/
+  sub-links:
+  - title: Go Car-Lite
+    url: /get-involved/go-car-lite/
+  - title: Enliven Public Spaces
+    url: /get-involved/enliven-public-spaces/
+  - title: Conserve Built Heritage
+    url: /get-involved/conserve-built-heritage/
+  - title: Shape a Distinctive City
+    url: /get-involved/shape-a-distinctive-city/
+  - title: Plan our Future SG
+    url: /get-involved/plan-our-future-sg/
+- title: Resources
+  url: /resources/
+  sub-links:
+  - title: Media Room
+    url: /resources/media-room/
+  - title: Ideas and Trends
+    url: /resources/ideas-and-trends/
+  - title: Publications
+    url: /resources/publications/
+  - title: Courses
+    url: /resources/courses/
