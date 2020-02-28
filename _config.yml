@@ -1,7 +1,7 @@
 title: Urban Redevelopment Authority
 title-abbreviated: URA
-description: At URA, we adopt a long-term and comprehensive planning approach to formulate strategic plans such as the Concept Plan and the Master Plan to guide the physical development of Singapore in a sustainable manner.
-url: https://www.ura.gov.sg
+description: To make Singapore a great city to live, work and play
+url: "https://www.ura.gov.sg"
 favicon: /images/favicon-URA-Logo.ico
 
 # Build settings
@@ -27,10 +27,7 @@ paginate: 12
 
 # Homepage sections
 homepage_hero_i_want_to: false
-# if i_want_to is true, there will be no key highlights
-homepage_ideas-and-trends: true
 homepage_resources: true
-homepage_publications: true
 
 # Feedback Form URL
 feedback_form_url: "http://www.ura.gov.sg/feedbackWeb/contactus_feedback.jsp"
@@ -39,6 +36,8 @@ feedback_form_url: "http://www.ura.gov.sg/feedbackWeb/contactus_feedback.jsp"
 custom_css_path: "/misc/custom.css"
 custom_print_css_path: "/assets/css/print.css"
 
+# Collections for left-nav pages
+baseurl: ""
 collections:
   who-we-are:
     output: true
@@ -56,10 +55,7 @@ collections:
     output: true
   resources:
     output: true
-  homepage_hero_i_want_to:
-    output: true
-  homepage_resources:
-    output: true
+
 
 # Isomer recommender system - only works for simple-page, leftnav-page, and post
 recommender: true
