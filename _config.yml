@@ -43,7 +43,7 @@ custom_print_css_path: "/assets/css/print.css"
 # Collections for left-nav pages
 baseurl: ""
 collections:
-  who-we-are:
+  about-us:
     output: true
   planning:
     output: true
