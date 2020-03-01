@@ -22,7 +22,7 @@ locations:
       description: Free Admission <br> Closed on Sundays and Public Holidays <br>For more information, <a href="https://www.ura.gov.sg/gallery">click here</a>.
   find-directions: https://www.google.com/maps/dir/Singapore+City+Gallery/1.2796028,103.8452199/@1.279603,103.84522,18z/data=!4m8!4m7!1m5!1m1!1s0x31da190d5b1ca245:0xc33e99eb86f0cdb6!2m2!1d103.8452304!2d1.2796865!1m0?hl=en-GB
 #For line: If you have an email, put "(email)" after the actual email
-contacts:
+column:
 - title: General Feedback and Enquiries
   content:
   - line: +65 6221 6666
