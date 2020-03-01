@@ -10,13 +10,13 @@ locations:
 - title: Main Office
   address: "45 Maxwell Road, The URA Centre, Singapore 069118"
   find-directions: https://www.google.com/maps?ll=1.279603,103.84522&z=18&t=m&hl=en-GB&gl=SG&mapclient=embed&daddr=Urban+Redevelopment+Authority+(URA)+45+Maxwell+Rd+Singapore+069118@1.2796028,103.8452199
-  operating_hours:
+  operating-hours:
     - days: Monday to Friday
       time: 8.30AM to 5.00PM
       description: By appointment only <br>(Closed from 1:00PM to 2:00PM) <br> Closed on Weekends and Public Holidays
 - title: Singapore City Gallery
   address: "45 Maxwell Road, The URA Centre, Level 1 to 3, Singapore 069118"
-  operating_hours:
+  operating-hours:
     - days: Monday to Saturday
       time: 9.00AM to 5.00PM
       description: Free Admission <br> Closed on Sundays and Public Holidays <br>For more information, <a href="https://www.ura.gov.sg/gallery">click here</a>
