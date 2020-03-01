@@ -2,7 +2,6 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
----
 agency_name: Urban Redevelopment Authority <br> of Singapore
 locations:
 - title: Main Office
@@ -52,3 +51,4 @@ contacts:
   - other: To check the status of your application, <a href="https://www.ura.gov.sg/edaWeb/chkstatus/search.jsp">click here</a>.
   - other: To report unauthorised use or structure on private property, <a href="https://www.ura.gov.sg/feedbackWeb/contactus_feedback.jsp?topic=enf">click here</a>.
   - other: FOr all other development control related matters, please send us your feedback <a href="https://www.ura.gov.sg/feedbackWeb/contactus_feedback.jsp?topic=dc">here</a>.
+---
