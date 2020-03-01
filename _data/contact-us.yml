@@ -15,21 +15,21 @@ locations:
       time: 8.30AM to 5.00PM
       description: By appointment only <br>(Closed from 1:00PM to 2:00PM) <br> Closed on Weekends and Public Holidays
 - title: Singapore City Gallery
-  address: "45 Maxwell Road, <br>The URA Centre, Level 1 to 3, <br>Singapore 069118"
+  address: "45 Maxwell Road, <br>The URA Centre, <br>Level 1 to 3, <br>Singapore 069118"
   operating-hours:
     - days: Monday to Saturday
       time: 9.00AM to 5.00PM
-      description: Free Admission <br> Closed on Sundays and Public Holidays <br>For more information, <a href="https://www.ura.gov.sg/gallery">click here</a>
+      description: Free Admission <br> Closed on Sundays and Public Holidays <br>For more information, <a href="https://www.ura.gov.sg/gallery">click here</a>.
   find-directions: https://www.google.com/maps/dir/Singapore+City+Gallery/1.2796028,103.8452199/@1.279603,103.84522,18z/data=!4m8!4m7!1m5!1m1!1s0x31da190d5b1ca245:0xc33e99eb86f0cdb6!2m2!1d103.8452304!2d1.2796865!1m0?hl=en-GB
 #For line: If you have an email, put "(email)" after the actual email
 contacts:
 - title: General Feedback and Enquiries
   content:
   - line: +65 6221 6666
-  - line: You can send us your feedback <a href="https://www.ura.gov.sg/feedbackWeb/contactus_feedback.jsp">here </a>or select the services below.
-  - line: For feedback on national and social issues, please visit <a href="https://www.reach.gov.sg/">REACH website</a>.
-  - line: For feedback on municipal issues, please use <a href="http://www.mnd.gov.sg/mso/mobile-about.htm">OneService Mobile App</a>.
-  - line: If you have ideas on making Singapore more pro-enterprise, please visit the <a href="https://www.mti.gov.sg/proenterprisepanel/Pages/default.aspx">Pro-Enterprise Panel website</a>.
+  - line: <a href="https://www.ura.gov.sg/feedbackWeb/contactus_feedback.jsp">Feedback to URA</a>
+  - line: <a href="https://www.reach.gov.sg/">Feedback on national and social issues</a>
+  - line: <a href="http://www.mnd.gov.sg/mso/mobile-about.htm">Feedback on municipal issues</a>
+  - line: <a href="https://www.mti.gov.sg/proenterprisepanel/Pages/default.aspx">Feedback to Pro-Enterprise Panel</a>
 - title: Quality Service Manager
   content:
   - phone: +65 1800 2212 616
