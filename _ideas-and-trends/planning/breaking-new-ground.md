@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Breaking New Ground
-permalink: /ideas-and-trend/break-new-ground/
+permalink: /ideas-and-trend/breaking-new-ground/
 breadcrumb: Breaking New Ground
 collection_name: ideas-and-trend
 tag: planning
