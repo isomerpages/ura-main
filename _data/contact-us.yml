@@ -33,6 +33,12 @@ column:
   content:
   - line: +65 1800 2212 616
   - line: <a href="https://www.ura.gov.sg/feedbackWeb/contactus_feedback.jsp?topic=qsm">Feedback on service delivery</a>
+- title: Development Control Related Matters
+  content:
+  - line: +65 6223 4811
+  - line: <a href="https://www.ura.gov.sg/feedbackWeb/contactus_feedback.jsp?topic=dc">Feedback to Development Control</a>
+  - line: <a href="https://www.ura.gov.sg/edaWeb/chkstatus/search.jsp">Check status of your application</a>
+  - line: <a href="https://www.ura.gov.sg/feedbackWeb/contactus_feedback.jsp?topic=enf">Report unauthorised use or structure on private property</a>
 - title: Car Parks Related Matters
   content:
   - line: +65 6329 3434
@@ -40,10 +46,4 @@ column:
   - line: <a href="https://www.ura.gov.sg/Corporate/~/link.aspx?_id=839B475DEECE4AF8A3A77E96AB080C9E&_z=z">Make parking offence payment</a>
   - line: <a href="https://www.ura.gov.sg/Corporate/~/link.aspx?_id=7F953DD7C7A447488E6204A92118B143&_z=z">Apply for season parking</a>
   - line: <a href="https://www.ura.gov.sg/Corporate/~/link.aspx?_id=FD962C70754449D9AF06199E2B1BA467&_z=z>Other car park transactions</a>
-- title: Development Control Related Matters
-  content:
-  - line: +65 6223 4811
-  - line: <a href="https://www.ura.gov.sg/feedbackWeb/contactus_feedback.jsp?topic=dc">Feedback to Development Control</a>
-  - line: <a href="https://www.ura.gov.sg/edaWeb/chkstatus/search.jsp">Check status of your application</a>
-  - line: <a href="https://www.ura.gov.sg/feedbackWeb/contactus_feedback.jsp?topic=enf">Report unauthorised use or structure on private property</a>
 ---
