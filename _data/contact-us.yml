@@ -26,25 +26,25 @@ column:
 - title: General Feedback and Enquiries
   content:
   - line: +65 6221 6666
-  - line: <a href="https://www.ura.gov.sg/feedbackWeb/contactus_feedback.jsp">Feedback to URA</a>
-  - line: <a href="https://www.reach.gov.sg/">Feedback on national and social issues</a>
+  - line: <a href="https://www.reach.gov.sg/">Feedback on national issues</a>
   - line: <a href="http://www.mnd.gov.sg/mso/mobile-about.htm">Feedback on municipal issues</a>
   - line: <a href="https://www.mti.gov.sg/proenterprisepanel/Pages/default.aspx">Feedback to Pro-Enterprise Panel</a>
 - title: Quality Service Manager
   content:
-  - phone: +65 1800 2212 616
-  - line: You can send us your feedback on service delivery <a href="https://www.ura.gov.sg/feedbackWeb/contactus_feedback.jsp?topic=qsm">here </a>.
+  - line: +65 1800 2212 616
+  - line: <a href="https://www.ura.gov.sg/feedbackWeb/contactus_feedback.jsp?topic=qsm">Feedback on service delivery</a>
 - title: Car Parks Related Matters
   content:
   - line: +65 6329 3434
-  - line: <a href="https://www.ura.gov.sg/Corporate/~/link.aspx?_id=839B475DEECE4AF8A3A77E96AB080C9E&_z=z">Parking offence payment</a>
-  - line: <a href="https://www.ura.gov.sg/Corporate/~/link.aspx?_id=7F953DD7C7A447488E6204A92118B143&_z=z">Season parking</a>
-  - line: You can perform most car park transactions online, <a href="https://www.ura.gov.sg/Corporate/~/link.aspx?_id=FD962C70754449D9AF06199E2B1BA467&_z=z>click here</a>.
-  - line: For all other car park related matters, please send us your feedback <a href="https://www.ura.gov.sg/feedbackWeb/contactus_feedback.jsp?topic=carpark">here</a>.
+  - line: <a href="https://www.ura.gov.sg/feedbackWeb/contactus_feedback.jsp?topic=carpark">Feedback to URA Car Parks</a>
+  - line: <a href="https://www.ura.gov.sg/Corporate/~/link.aspx?_id=839B475DEECE4AF8A3A77E96AB080C9E&_z=z">Make parking offence payment</a>
+  - line: <a href="https://www.ura.gov.sg/Corporate/~/link.aspx?_id=7F953DD7C7A447488E6204A92118B143&_z=z">Apply for season parking</a>
+  - line: <a href="https://www.ura.gov.sg/Corporate/~/link.aspx?_id=FD962C70754449D9AF06199E2B1BA467&_z=z>Other car park transactions</a>
+
 - title: Development Control Related Matters
   content:
-  - line: 6223 4811
-  - line: To check the status of your application, <a href="https://www.ura.gov.sg/edaWeb/chkstatus/search.jsp">click here</a>.
-  - line: To report unauthorised use or structure on private property, <a href="https://www.ura.gov.sg/feedbackWeb/contactus_feedback.jsp?topic=enf">click here</a>.
-  - line: FOr all other development control related matters, please send us your feedback <a href="https://www.ura.gov.sg/feedbackWeb/contactus_feedback.jsp?topic=dc">here</a>.
+  - line: +65 6223 4811
+  - line: <a href="https://www.ura.gov.sg/edaWeb/chkstatus/search.jsp">Check status of your application</a>
+  - line: <a href="https://www.ura.gov.sg/feedbackWeb/contactus_feedback.jsp?topic=enf">Report unauthorised use or structure on private property</a>
+  - line: <a href="https://www.ura.gov.sg/feedbackWeb/contactus_feedback.jsp?topic=dc">Feedback to DC</a>
 ---
