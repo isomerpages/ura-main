@@ -34,7 +34,7 @@ hero-banner: /images/home/CivicDistrict_banner.jpg
 #Call to Action Button
 button:
   - text: Explore Master Plan 2019 Here
-    url: https://www.ura.gov.sg/maps
+    url: https://www.ura.gov.sg/maps?service=mp
     external: true
     
 #Key Highlights
