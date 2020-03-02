@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title:  "Annual Digital Government Perception Survey (Citizen) Conducted in 2005"
-permalink: "/digital-government-perception-survey-citizen-2005"
+permalink: "/ideas-and-trends/"
 breadcrumb: 2005 Annual Digital Government Perception Survey (Citizen)
 ---
 <a href="#!">
