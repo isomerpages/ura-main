@@ -1,3 +1,9 @@
+---
+layout: simple-page
+title:  "Annual Digital Government Perception Survey (Citizen) Conducted in 2005"
+permalink: "/digital-government-perception-survey-citizen-2005"
+breadcrumb: 2005 Annual Digital Government Perception Survey (Citizen)
+---
 <a href="#!">
     <div class="sgds-card sgds-card-button">
         <div class="sgds-card-image">
