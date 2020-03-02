@@ -4,7 +4,7 @@ title: Breaking New Ground
 permalink: /ideas-and-trend/breaking-new-ground/
 breadcrumb: Breaking New Ground
 collection_name: ideas-and-trend
-tag: planning
+tag: business
 thumbnail_image: /images/ideas-and-trends/test2.jpg
 ---
 
