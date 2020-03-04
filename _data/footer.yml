@@ -15,17 +15,28 @@
         url: /some-page-c/
       - title: Others
         url: /some-page-c/
-- title: National Climate Change Secretariat
-  url: https://www.nccs.gov.sg/
-  external: true
-- title: Centre for Strategic Futures
-  url: https://www.csf.gov.sg/
-  external: true
-- title: Media Centre
-  url: /media-centre/
+- title: Media Room
+  url: /media-room/
+  sublinks:
+      - title: Media Releases
+        url: /some-page-a/
+      - title: Forum Replies
+        url: /some-page-b/
+      - title: Speeches
+        url: /some-page-b/
 - title: Careers
-  url: /careers/
-- title: FAQ
-  url: /faq/
-- title: Contact Us
-  url: /contact-us/
+  url: /career/
+  sublinks:
+      - title: Career with URA
+        url: /some-page-a/
+      - title: Opportunities for Studies
+        url: /some-page-b/
+      - title: Meet the URA Family!
+        url: /some-page-b/
+- title: Facilities for Rental
+  url: /facilities-for-rental/
+  sublinks:
+      - title: Hall
+        url: /some-page-a/
+      - title: Rooms
+        url: /some-page-b/
