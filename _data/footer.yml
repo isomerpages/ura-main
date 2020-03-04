@@ -1,6 +1,6 @@
 - title: e-Services
   url: /e-services/
-  sublinks:
+  links:
       - title: Car Parks
         url: /some-page-a/
       - title: Conservation
@@ -40,3 +40,5 @@
         url: /some-page-a/
       - title: Rooms
         url: /some-page-b/
+- title: Courses
+  url: /courses/
