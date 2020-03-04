@@ -5,9 +5,9 @@
 @charset "utf-8";
 
 // URA brand colors
-$primary: #4D0505;
+$primary: #9e151c;
 $secondary: #9e151c;
-$secondary-hover: darken($secondary, 30%);
+$secondary-hover: lighten ($secondary, 30%);
 
 $media-color-one: #8f2b00;
 $media-color-two: #d45a26;
