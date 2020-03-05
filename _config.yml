@@ -31,7 +31,7 @@ paginate: 12
 
 # Homepage sections
 homepage_hero_i_want_to: false
-homepage_media-room: true
+homepage_resources: true
 
 # Feedback Form URL
 feedback_form_url: "http://www.ura.gov.sg/feedbackWeb/contactus_feedback.jsp"
