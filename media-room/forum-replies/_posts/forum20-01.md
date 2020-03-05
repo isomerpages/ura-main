@@ -1,0 +1,22 @@
+---
+layout: post
+title: New green spaces planned for River Valley
+date: 2020-03-01
+permalink: /media-room/forum-replies/forum20-01
+---
+
+URA's reply, 3 Jan 2020
+
+We thank Mr Damien Ng Swee Beng for his feedback (Build park in Irwell Bank Road, Dec 27, 2019).
+
+Injecting more housing in the River Valley area will provide opportunities for more people to live in the city and near public transport nodes. At the same time, provision of greenery and open spaces has always been a consideration even as we plan for developments.
+
+The Urban Redevelopment Authority will be guiding the developer of the future residential site in Irwell Bank Road to retain some of the existing mature trees and to provide landscaping that will maintain the overall green ambience of the area.
+
+There will also be a linear park in the area, which will link residents from River Valley to Kim Seng Park and the Alexandra Canal Linear Park.
+
+We also work with the National Parks Board to plan for new parks and green spaces in the city, such as the recently completed Jubilee Park and Armenian Street Park on the foothills of Fort Canning Park.
+
+**Lim You Ling**
+**Director, Urban Design (Central Area North)**
+**Urban Redevelopment Authority**
