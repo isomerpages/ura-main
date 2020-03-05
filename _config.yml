@@ -57,9 +57,8 @@ collections:
     output: true
   get-involved:
     output: true
-  resources:
+  media-room:
     output: true
-
 
 # Isomer recommender system - only works for simple-page, leftnav-page, and post
 recommender: true
