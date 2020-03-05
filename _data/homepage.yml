@@ -57,20 +57,3 @@ resources-title: Latest News
 resources-subtitle: Be Informed
 resources-more-button: View More
 resources-more-button-url: /media-room/
-
-#Ideas and Trends Section
-#To edit the ideas details, go to ideas-and-trends.yml
-ideas-title: Ideas and Trends
-ideas-subtitle: Lorem ipsum dolor
-ideas-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-ideas-more-button: More Articles
-ideas-more-button-url: /ideas-and-trends/
-
-#Publications
-#To edit the publications details, go to publications.yml
-publications-title: Publications
-publications-subtitle: Loren ipsum dolor
-publications-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-publications-more-button: More Articles
-publications-more-button-url: /publications/
-
