@@ -56,3 +56,6 @@
         url: /some-page-a/
       - title: Group Bookings
         url: /some-page-a/
+- title: Subscribe to Monthly Updates 
+  url: /subscribe/
+    
