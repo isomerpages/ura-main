@@ -7,13 +7,11 @@
 // URA brand colors
 $primary: #9e151c;
 $secondary: #9e151c;
-$secondary-hover: lighten ($secondary, 30%);
+$secondary-hover: darken ($secondary, 10%);
 
-$media-color-one: #8f2b00;
-$media-color-two: #d45a26;
-$media-color-three: #b53a05;
-$media-color-four: #ff8652;
-$media-color-five: #db4200;
+$media-color-one: #4b84c9;
+$media-color-two: #1f3652;
+$media-color-three: #0055bd;
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
