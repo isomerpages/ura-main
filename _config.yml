@@ -32,6 +32,7 @@ paginate: 12
 # Homepage sections
 homepage_hero_i_want_to: false
 homepage_resources: true
+
 resources_name: media-room
 
 # Feedback Form URL
@@ -58,8 +59,7 @@ collections:
     output: true
   get-involved:
     output: true
-  media-room:
-    output: true
+
 
 # Isomer recommender system - only works for simple-page, leftnav-page, and post
 recommender: true
