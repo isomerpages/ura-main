@@ -42,3 +42,17 @@
         url: /some-page-b/
 - title: Courses
   url: /courses/
+  sub-links:
+      - title: Upcoming
+        url: /some-page-a/
+      - title: Application
+        url: /some-page-a/
+- title: Singapore City Gallery
+  url: /gallery/
+  sub-links:
+      - title: Opening Hours
+        url: /some-page-a/
+      - title: Community Tours
+        url: /some-page-a/
+      - title: Group Bookings
+        url: /some-page-a/
