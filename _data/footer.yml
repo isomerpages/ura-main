@@ -1,6 +1,6 @@
 - title: e-Services
   url: /e-services/
-  sublinks:
+  sub-links:
       - title: Car Parks
         url: /some-page-a/
       - title: Conservation
@@ -17,7 +17,7 @@
         url: /some-page-c/
 - title: Media Room
   url: /media-room/
-  sublinks:
+  sub-links:
       - title: Media Releases
         url: /some-page-a/
       - title: Forum Replies
@@ -26,7 +26,7 @@
         url: /some-page-b/
 - title: Careers
   url: /career/
-  sublinks:
+  sub-links:
       - title: Career with URA
         url: /some-page-a/
       - title: Opportunities for Studies
@@ -35,7 +35,7 @@
         url: /some-page-b/
 - title: Facilities for Rental
   url: /facilities-for-rental/
-  sublinks:
+  sub-links:
       - title: Hall
         url: /some-page-a/
       - title: Rooms
