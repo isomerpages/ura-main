@@ -4,14 +4,17 @@
 
 title: Urban Redevelopment Authority
 title-abbreviated: URA
-description: To make Singapore a great city to live, work and play
-url: "https://www.ura.gov.sg"
+description: >- # this means to ignore newlines until "baseurl:"
+  To make Singapore a great city to live, work and play
+url: "https://www.ura.gov.sg"     # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/favicon-URA-Logo.ico
 
 # Build settings
 markdown: kramdown
 remote_theme: isomerpages/isomerpages-template
 safe: false
+kramdown:
+  parse_block_html: true
 
 plugins:
   - jekyll-feed
@@ -32,8 +35,8 @@ paginate: 12
 # Homepage sections
 homepage_hero_i_want_to: false
 homepage_resources: true
-
-resources_name: media-room
+homepage_programmes: false
+homepage_careers: false
 
 # Feedback Form URL
 feedback_form_url: "http://www.ura.gov.sg/feedbackWeb/contactus_feedback.jsp"
@@ -41,6 +44,10 @@ feedback_form_url: "http://www.ura.gov.sg/feedbackWeb/contactus_feedback.jsp"
 # Custom CSS file path
 custom_css_path: "/misc/custom.css"
 custom_print_css_path: "/assets/css/print.css"
+
+exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
+include: [_redirects]
+
 
 # Collections for left-nav pages
 baseurl: ""
@@ -60,9 +67,11 @@ collections:
   get-involved:
     output: true
 
+resources_name: media-room
 
 # Isomer recommender system - only works for simple-page, leftnav-page, and post
 recommender: true
 
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-include: [_redirects]
+copyright_agency: URA. All rights reserved
+
+future: true
