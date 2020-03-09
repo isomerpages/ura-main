@@ -52,7 +52,7 @@ include: [_redirects]
 # Collections for left-nav pages
 baseurl: ""
 collections:
-  about-us:
+  who-we-are:
     output: true
   planning:
     output: true
