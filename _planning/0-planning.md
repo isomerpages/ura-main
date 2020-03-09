@@ -1,8 +1,10 @@
 ---
+layout: leftnav-page-content
 title: Overview
+breadcrumb: Planning
+collection_name: planning
 permalink: /planning/
 ---
-
 
 In planning for Singapore’s land use, we take a long-term approach. This is to optimise our limited land, and to ensure the current and future needs of the people are met.
 
