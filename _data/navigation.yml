@@ -5,16 +5,16 @@
 ##################################
 
 - title: About Us
-  url: /about-us/
+  url: /who-we-are/
   sub-links:
   - title: Who We Are
-    url: /about-us/who-we-are/
+    url: /who-we-are/our-team
   - title: What We Do
-    url: /about-us/what-we-do/
+    url: /who-we-are/what-we-do/
   - title: Annual Reports
-    url: /about-us/annual-reports/
+    url: /who-we-are/annual-reports/
   - title: Financial Statements
-    url: /about-us/financial-statements
+    url: /who-we-are/financial-statements
 - title: Planning
   url: /planning/
   sub-links:
