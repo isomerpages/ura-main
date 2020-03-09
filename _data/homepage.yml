@@ -39,8 +39,8 @@ button:
     
 #Key Highlights
 key-highlights:
-        - title: DIGITAL SERVICES :clock2:
-          description: Quicklinks to URA's e-Services
+        - title: DIGITAL SERVICES
+          description: Quicklinks to URA's e-Services :clock2:
           url: /public-quick-links/
           external: false
         - title: SINGAPORE CITY GALLERY
