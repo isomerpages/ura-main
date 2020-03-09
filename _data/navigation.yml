@@ -4,17 +4,9 @@
 #                                #
 ##################################
 
-- title: About Us
-  url: /who-we-are/
-  sub-links:
-  - title: Who We Are
-    url: /who-we-are/our-team
-  - title: What We Do
-    url: /who-we-are/what-we-do/
-  - title: Annual Reports
-    url: /who-we-are/annual-reports/
-  - title: Financial Statements
-    url: /who-we-are/financial-statements
+links:
+- title: Who We Are
+    collection: who-we-are
 - title: Planning
   url: /planning/
   sub-links:
