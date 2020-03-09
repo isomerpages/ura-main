@@ -1,0 +1,63 @@
+# Board of Directors
+board-of-directors:
+  - name: Mr NG Chee Khern
+    title: Chairman
+    organisation: Permanent Secretary (Smart Nation and Digital Government)
+    image-url: 
+  - name: Mr KOK Ping Soon
+    title: Chief Executive
+    organisation: Government Technology Agency of Singapore
+    image-url: 
+  - name: Mr David KOH
+    title: Chief Executive
+    organisation: Cyber Security Agency, Prime Minister’s Office
+    image-url: 
+    
+# Senior Leadership
+senior-leadership:
+  - name: Mr KOK Ping Soon
+    title: Chief Executive
+    organisation: Government Technology Agency of Singapore
+    image-url: 
+  - name: Mr CHAN Cheow Hoe
+    title: Deputy Chief Executive / Government Chief Digital Technology Officer
+    organisation: Products
+    image-url: 
+  - name: Ms LIM Bee Kwan
+    title: Assistant Chief Executive
+    organisation: Governance and Cybersecurity
+    image-url:
+    
+# Organisational Structure
+organisational-structure:
+  - title: CE Office
+    teams:
+      - name: Internal Audit
+  - title: Corporate Services
+    teams:
+      - name: Communications and Marketing Group (CMG)
+        link:
+      - name: Development & Organisation Transformation (DOT)
+        link:
+      - name: Finance, Investment and Procurement Group (FIPG)
+        link:
+      - name: Group IT Division (GITD)
+        link:       
+      - name: Legal
+        link:  
+      - name: People and Organisation Group (POG)
+        link:  
+      - name: Strategy and Plans Division (SPD)
+        link:
+  - title: Cybersecurity Group
+    teams:
+      - name: Advanced Cybersecurity Capabilities
+        link:
+      - name: Government Cyber Defence
+        link:
+      - name: Government Cybersecurity Consulting Services
+        link:
+      - name: Government Cybersecurity Policy & Planning
+        link:
+      - name: Ministry CISO
+        link:
