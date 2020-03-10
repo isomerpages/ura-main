@@ -9,6 +9,24 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "https://www.ura.gov.sg"     # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/favicon-URA-Logo.ico
 
+collections:
+  who-we-are:
+    output: true
+  planning:
+    output: true
+  property:
+    output: true
+  guidelines:
+    output: true
+  carparks:
+    output: true
+  land-sales:
+    output: true
+  get-involved:
+    output: true
+
+resources_name: media-room
+
 # Build settings
 markdown: kramdown
 remote_theme: isomerpages/isomerpages-template
@@ -51,23 +69,9 @@ include: [_redirects]
 
 # Collections for left-nav pages
 baseurl: ""
-collections:
-  who-we-are:
-    output: true
-  planning:
-    output: true
-  property:
-    output: true
-  guidelines:
-    output: true
-  carparks:
-    output: true
-  land-sales:
-    output: true
-  get-involved:
-    output: true
 
-resources_name: media-room
+
+
 
 # Isomer recommender system - only works for simple-page, leftnav-page, and post
 recommender: true
