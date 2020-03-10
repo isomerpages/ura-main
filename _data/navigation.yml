@@ -6,7 +6,7 @@
 
 links:
 - title: Who We Are
-    collection: who-we-are
+  url: /who-we-are/
 - title: Planning
   url: /planning/
   sub-links:
