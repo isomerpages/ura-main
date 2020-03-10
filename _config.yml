@@ -9,6 +9,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "https://www.ura.gov.sg"     # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/favicon-URA-Logo.ico
 
+# Collections for left-nav pages
 collections:
   who-we-are:
     output: true
@@ -29,46 +30,39 @@ resources_name: media-room
 
 # Build settings
 markdown: kramdown
-remote_theme: isomerpages/isomerpages-template
+remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+
 kramdown:
   parse_block_html: true
+
+# Custom CSS file path
+custom_css_path: "/misc/custom.css"
+custom_print_css_path: "/assets/css/print.css"
+
+# Resource Room and Pagination
+paginate: 12
 
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-sitemap
 
-# Breadcrumbs
-breadcrumbs:
-  root:
-    hide: false
-    # show breadcrumbs on root/home page
-    image: false
-    # Show image or title text
-
-# Resource Room and Pagination
-paginate: 12
-
-# Homepage sections
-homepage_hero_i_want_to: false
-homepage_resources: true
-homepage_programmes: false
-homepage_careers: false
-
 # Feedback Form URL
 feedback_form_url: "http://www.ura.gov.sg/feedbackWeb/contactus_feedback.jsp"
 
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
-
+permalink: none
+baseurl: ""
 exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
 include: [_redirects]
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "page"
 
 
-# Collections for left-nav pages
-baseurl: ""
+
 
 
 
